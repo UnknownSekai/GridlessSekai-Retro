@@ -9,7 +9,7 @@ RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no i
 # GridlessSekai Retro
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GridlessSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GridlessSekai/GridlessSekai-Retro)
 
-A fully **offline** archive of HATSUNE MIKU: COLORFUL STAGE (JP, v2.8.0 - released 2023). Yes, you can play it without internet!
+A fully **offline** archive of a certain popular mobile rhythm game (JP, v2.8.0 - released 2023). Yes, you can play it without internet!
 
 This project is a culmination of ALL my knowledge. If you enjoy it, please **⭐ Star** the repo.
 
