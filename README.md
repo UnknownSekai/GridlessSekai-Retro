@@ -34,7 +34,6 @@ Assets don't change between releases. This is a pure archive with all resources 
 
 - **[Download assets from archive.org](https://archive.org/details/pjsk_2.8.0_assets)**
 - **[Download assets from pan.dokidoki.su](https://pan.dokidoki.su/TianYi/GridlessSekai-Retro) by [@256ni](https://github.com/256ni)**
-- **[Download assets from mirrorcentral.patchednexus.win](https://mirrorcentral.patchednexus.win/) by [@nyxgoober](https://github.com/nyxgoober)**
 - **[Download assets from share.123865.com](https://1822994405.share.123865.com/123pan/N9Awjv-Z0413?pwd=GLSR#) by [@Lzy2859905CH](https://github.com/Lzy2859905CH)**
 - **Help contribute - upload assets to places that allow it! (Open an issue to get it added here as a download url).**
 - **Help us create a torrent - upload this file to public and private trackers. (Open an issue to get a magnet link added here as a download url).**
