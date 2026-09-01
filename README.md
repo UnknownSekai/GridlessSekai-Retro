@@ -1,6 +1,6 @@
 ### ⚠️ Post content online at your own risk - SEGA has banned unofficial apps on social media of any type for unofficial versions of the game.
 ### ⚠️ This project is _not RetroSEKAI or OurStage_.
-RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code or research used or referenced for this project (if I can Frida into 2.8.0 and literally mod it, I can [dnSpy](https://github.com/dnSpyEx/dnSpy) it myself).
+RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code or research used or referenced for this project.
 ### *This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.*
 
 > [!IMPORTANT]
