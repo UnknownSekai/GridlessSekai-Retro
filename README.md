@@ -1,7 +1,9 @@
 ### ⚠️ Post content online at your own risk - SEGA has banned unofficial apps on social media of any type for unofficial versions of the game.
-### ⚠️ This project is _not RetroSEKAI or OurStage_.
+**⚠️ This project is _not RetroSEKAI or OurStage_.**
 RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code or research used or referenced for this project.
-### *This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.*
+***This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.***
+
+This project will receive infrequent updates.
 
 > [!IMPORTANT]
 > We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
