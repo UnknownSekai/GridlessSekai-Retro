@@ -9,7 +9,7 @@ This project will receive infrequent updates.
 > We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
 
 # GridlessSekai Retro
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GridlessSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GridlessSekai/GridlessSekai-Retro)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/UnknownSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/UnknownSekai/GridlessSekai-Retro)
 
 A fully **offline** archive of a certain popular mobile rhythm game (JP, v2.8.0 - released 2023). Yes, you can play it without internet!
 
