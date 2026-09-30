@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > **DO NOT EXTRACT the zip.**
 
-# UNOFFICIAL FAN-MADE GUIDE CAN BE FOUND HERE: https://gridlesssekai.patchednexus.win/
+# UNOFFICIAL FAN-MADE GUIDE CAN BE FOUND HERE: https://patchednexus.win/glsk/retro
 # 中文安装说明 (iOS): https://docs.qq.com/doc/DTVpDV2V4eEpYbE50
 > [!IMPORTANT]
 > We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
