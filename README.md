@@ -3,13 +3,12 @@
 RetroSEKAI and OurStage are both shut down. The developer of RetroSEKAI has no involvement in this project, nor was any of the RetroSEKAI code or research used or referenced for this project.
 ***This project is provided for educational and archival purposes only, and is not affiliated with SEGA, Crypton, or Colorful Palette.***
 
-This project will receive infrequent updates.
-
-> [!IMPORTANT]
-> We do NOT provide help or support for installing GridlessSekai Retro beyond these instructions. Do not open any Issues to ask for help, unless it is a bug.
+# **Also check out [GridlessSekai 6](https://github.com/UnknownSekai/GridlessSekai6)!**
 
 # GridlessSekai Retro
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/UnknownSekai/GridlessSekai-Retro/total) ![GitHub Repo stars](https://img.shields.io/github/stars/UnknownSekai/GridlessSekai-Retro)
+
+This project will receive infrequent updates.
 
 A fully **offline** archive of a certain popular mobile rhythm game (JP, v2.8.0 - released 2023). Yes, you can play it without internet!
 
